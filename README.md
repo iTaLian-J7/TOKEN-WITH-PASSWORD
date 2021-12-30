@@ -1,1 +1,1 @@
-# TOKEN-WITH-PASSWORD
+premium
